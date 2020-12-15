@@ -1,4 +1,4 @@
-function localSliderPageStart() {
+function serverSliderPageStart() {
   const Slides = {
     duration: 7,//seconds
     currentPage: 1,
@@ -141,21 +141,21 @@ function localSliderPageStart() {
       <div class="pages">
       <div class="page page_slider">
         <div class="page__paragraphs page__paragraphs_position_up">
-          <p class="page__text">Oh, misty eye of the mountain below Keep careful watch of my brothers souls</p>
+          <p class="page__text">test 1</p>
         </div>
-        <img class="page__image" src="https://apalienko.com/wp-content/uploads/2019/03/Depositphotos_4078725_xl-2015-2000.jpg">
+        <img class="page__image" src="https://www.shans-na-schastye.ru/wp-content/uploads/2019/02/biz.jpg">
           </div>
       <div class="page page_slider page_slider_display">
         <div class="page__paragraphs page__paragraphs_position_center" style="max-height: 100px;">
-          <p class="page__text">And should the sky be filled with fire and smokeKeep watching over Durin's sons</p>
+          <p class="page__text">test 2</p>
         </div>
-        <img class="page__image" src="https://volkovysk.by/uploaded/thumbnails/5f5f0aa42a12c.jpg">
+        <img class="page__image" src="https://psy-files.ru/wp-content/uploads/2/2/0/2203d5ae92c1ff6d85317e7a06e8997d.jpg">
           </div>
       <div class="page page_slider page_slider_display">
             <div class="page__paragraphs page__paragraphs_position_down">
-              <p class="page__text">If this is to end in fire, then we should all burn together Watch the flames climb high into the night</p>
+              <p class="page__text">test 3</p>
             </div>
-            <img class="page__image" src="https://s.mediasole.ru/images/412/412885/1.jpg">
+            <img class="page__image" src="https://gurutest.ru/uploads/publication/2016/02/15/c3d61f38e36c3c1dd093b63db2aea2aa.jpg>
           </div>
     </div>
   </div>`;
